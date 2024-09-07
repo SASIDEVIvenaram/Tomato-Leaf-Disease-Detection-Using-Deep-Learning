@@ -15,7 +15,7 @@ This project utilizes a Convolutional Neural Network (CNN) model built with Tens
 - Image prediction demo: A utility to predict disease from a new image.
 
 ## Dataset
-The model is trained on the publicly available [https://www.kaggle.com/datasets/emmarex/plantdisease](url) dataset, which contains labeled images of various plant diseases. Specifically, we are using the tomato leaf subset for this project.
+The model is trained on the publicly available [PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease) dataset, which contains labeled images of various plant diseases. Specifically, we are using the tomato leaf subset for this project.
 
 ## Classes
 The dataset includes various diseases, such as:
